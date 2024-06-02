@@ -1,4 +1,4 @@
-aiosmtpd==1.4.4.post2
+aiosmtpd==1.4.6
 annotated-types==0.5.0
 anyio==3.7.1
 async-timeout==4.0.3
